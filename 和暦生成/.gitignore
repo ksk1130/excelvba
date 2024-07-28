@@ -3,4 +3,4 @@ logs
 /xvba_excel_backup
 *.cls
 *.vb
-xvba_modules/
+xvba_modules
